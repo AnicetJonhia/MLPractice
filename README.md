@@ -4,4 +4,4 @@
 ## 3 projets : 
 - Arbre de décision : "DecisionTree"
 - Réseaux de neurones  :  "NeuralNetworks"
-- SVM : "SMV"
+- SVM : "SVM"
